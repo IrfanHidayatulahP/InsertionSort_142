@@ -26,3 +26,6 @@ void input() {
 	}
 };
 
+void insertionsort() {
+	int tmp;
+}
