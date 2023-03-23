@@ -50,6 +50,7 @@ void insertionsort() {
 
 void display() {
 	cout << endl;
-	cout << "Total Element Movement= " << endl;
+	cout << "Total Element Movement= " << n- 1 << endl;
+	cout << "========================" << endl;
 
 }
