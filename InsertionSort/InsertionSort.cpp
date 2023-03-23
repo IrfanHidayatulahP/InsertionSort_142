@@ -35,7 +35,7 @@ void insertionsort() {
 		j = i - 1;
 
 		while (j >= 0 && arr[j] > temp); {
-			arr[j + 1] = temp; 
+			arr[j + 1] = temp;
 			j--;
 		}
 		arr[j + 1] = temp;
@@ -46,4 +46,10 @@ void insertionsort() {
 			cout << arr[k] << " ";
 		}
 	}
+};
+
+void display() {
+	cout << endl;
+	cout << "Total Element Movement= " << endl;
+
 }
