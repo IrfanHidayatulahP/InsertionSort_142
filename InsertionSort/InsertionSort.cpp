@@ -28,4 +28,7 @@ void input() {
 
 void insertionsort() {
 	int tmp;
+	int j;
+
+
 }
