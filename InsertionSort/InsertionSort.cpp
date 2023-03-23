@@ -52,5 +52,7 @@ void display() {
 	cout << endl;
 	cout << "Total Element Movement= " << n- 1 << endl;
 	cout << "========================" << endl;
+	cout << "Element Array yang telah tersusun" << endl;
+	cout << "=================================" << endl;
 
 }
